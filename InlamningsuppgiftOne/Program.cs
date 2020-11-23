@@ -8,7 +8,7 @@ namespace InlamningsuppgiftOne
     {
         static void Main(string[] args)
         {
-            Console.Title = "My If Else Calculator";
+            Console.Title = "My If Else Calculator + - * /";
             Console.WriteLine("You can choose betwen these operators:  +  -  *  /");
             List<double> calcSumList = new List<double>();
             const string exit = "x";
